@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "/www/direct-adwords-begun.ru/webstat"
+AuthUserFile /var/www/u6801933/data/etc/34865685.passwd
+DirectoryIndex index.html
+<Limit GET POST>
+	require valid-user
+</Limit>

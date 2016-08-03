@@ -1,0 +1,665 @@
+<!DOCTYPE html>
+<html>
+
+<!-- Mirrored from direct-71.ru/ by HTTrack Website Copier/3.x [XR&CO'2010], Tue, 13 Aug 2013 15:00:42 GMT -->
+<head>
+	<meta charset="utf-8">
+	<title>Реклама Яндекс директ и Google adwords</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+	<!-- Our CSS stylesheet file -->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700&amp;subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <!--
+    <link rel="stylesheet" href="plugins/countdown/css/styles.css" />
+    <link rel="stylesheet" href="plugins/countdown/countdown/jquery.countdown.css" />
+    -->
+
+    <!--[if gte IE 9]>
+	  <style type="text/css">
+	    .order-button {
+	       filter: none;
+	    }
+	  </style>
+	<![endif]-->
+    
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+<script type="text/javascript">
+function f_send(_form) {
+    _form.submit();
+}
+</script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+	<script src="js/jquery.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+        <script src="js/jquery.countdown.js"></script>
+<link rel="stylesheet" type="text/css" href="css/jquery.countdown.css"> 
+</head>
+<body>
+	<!-- HAT -->
+	<div class="row-fluid top-bg">
+		<!-- Contacts + Descriptor -->
+		<div class="row-fluid header-descriptor">
+			<div class="container-fluid center">
+				<div class="span8">
+					<div class="row-fluid" style="text-align: left;">
+						<h2>Создание контекстной рекламы Яндекс Директ и Google adwords</h2>
+					</div>
+			<!--		<div class="row-fluid">
+						<h4 class="pull-left">Слоган услуги</h4>
+					</div>   -->
+				</div>
+				<div class="span4 contacts" style="text-align: right;">
+					<div class="row-fluid">
+						<h4 class="call">Звоните нам прямо сейчас</h4>
+					</div>
+					<div class="row-fluid">
+						<h4>+7 <span>(963)</span> 934-44-44</h4>
+					</div>
+			<!--		<div class="row-fluid">
+						<h4>+9 <span>(800)</span> 765-94-84</h4>
+					</div>   -->
+				</div>
+			</div>
+			<div class="bg"></div>
+		</div>
+		<!-- //Contacts + Descriptor -->
+
+		<!-- Slider top -->
+		<div class="row-fluid header-image">
+			<div class="container-fluid center">
+					<div class="span7">
+
+						<div class="google-icon"></div>
+						<div class="yandex-icon"></div>
+						<div class="arrow-icon"></div>
+					<!--<div class="row-fluid top-sale">
+							<h1>Только до 7 июля</h1>
+							<h1>скидка на обучение <span>-50%</span></h1>
+						</div>  -->
+					</div>
+					<div class="span5 main-benefits">
+						<div class="row-fluid">
+							<div class="row-fluid benefit" style="text-align: left;">
+								<div class="span12">
+									<div class="chbox" style="float: left; position: relative; margin-top: -15px;"></div>
+									<h4><span>Обеспечиваем высокий CTR !</span></h4>
+								</div>
+							</div>
+							<div class="row-fluid benefit" style="text-align: left;">
+								<div class="span12">
+									<div class="chbox" style="float: left; position: relative; margin-top: -15px;"></div>
+									<h4><span>Работаем в сжатые сроки !</span></h4>
+								</div>
+							</div>
+							<div class="row-fluid benefit" style="text-align: left;">
+								<div class="span12">
+									<div class="chbox" style="float: left; position: relative; margin-top: -15px;"></div>
+									<h4><span>Гарантируем результат !</span></h4>
+								</div>
+							</div>
+						</div>
+						<div class="row-fluid">
+							<div class="span12 form-top-bg">
+								<div class="row-fluid">
+									<div class="span12 form-top">
+										<h2>Закажи прямо сейчас</h2>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+			</div>
+		</div>
+	</div>
+	<!-- Heater + Form -->
+	<div class="row-fluid">
+		<div class="container-fluid center">
+			<div class="span7">
+				<div class="row-fluid">
+					<div class="span12">
+						<h1 style="margin-top: 60px; color: #3c383b;">
+							Вам необходима качественная и эффективная реклама?
+						</h1>
+					</div>
+				</div>
+				<div class="row-fluid">
+					<div class="span12">
+						<h1 style="margin-top: 30px; color: #3c383b;">
+							Выгодно и с гарантией работы? 
+						</h1>
+					</div>
+				</div>
+				<div class="row-fluid" style="margin-top: 60px;">
+					<div class="span1 warming-arrow left"></div>
+					<div class="span10 warming-arrow middle">
+						<h1>Закажите прямо сейчас !</h1>
+					</div>
+					<div class="span1 warming-arrow right"></div>
+				</div>
+			</div>
+			<div class="span5 form-body order">
+				<div class="row-fluid">
+					<div class="span12">
+						<div class="form-tail"></div>
+					</div>
+				</div><form method="get" action="mail.php">
+				<div class="row-fluid">
+					<div class="span10 offset1">
+						<input type="text" name="name" class="span12 form-input var required" placeholder="Имя">
+					</div>	
+				</div>
+
+				<div class="row-fluid">
+					<div class="span10 offset1">
+						<input type="text" name="email" class="span12 form-input var required" placeholder="Электронная почта">
+					</div>
+				</div>
+				<div class="row-fluid">
+					<div class="span10 offset1">
+						<input type="text" name="phone" class="span12 form-input var required" placeholder="Номер телефона">
+					</div>
+				</div>
+<div class="row-fluid">
+					<div class="span10 offset1">
+						<input type="text" name="site" class="span12 form-input var required" placeholder="Ваш сайт">
+					</div>
+				</div>
+				<div class="row-fluid">
+					<div class="span10 offset1">
+						<div class="form-submit-button order-trigger" onclick="javascript: f_send(this.form);">
+							<h1>ЗАКАЗАТЬ</h1>
+						</div>
+					</div>
+				</div></form>
+			</div>
+		</div>
+
+		<div class="container-fluid center pain">
+			<div class="row-fluid">
+				<div class="span12">
+					<hr/>
+				</div>
+			</div>
+
+			<div class="row-fluid">
+				<div class="span12" style="margin-top: 30px; text-align: center;">
+					<h2 class="header-pain"><span>5</span> проблем с которыми сталкиваются 97% клиентов</h2>
+				</div>
+			</div>
+			<div clas="row-fluid">
+				<div class="span12" style="margin-botom: 30px;">
+					<div class="row-fluid">
+						<div class="span12" style="text-align: left; margin-top: 10px">
+							<h1 class="light"><span>1.</span> <b>Низкий CTR</b> - Вам обещают высокие показатели, однако в итоге CTR крайне низок, а исполнители лишь разводят руками, перекладывая ответственность на Вашу "неудачную" нишу</h1>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div clas="row-fluid">
+				<div class="span12" style="margin-botom: 30px;">
+					<div class="row-fluid">
+						<div class="span12" style="text-align: left; margin-top: 10px">
+							<h1 class="light"><span>2.</span> <b>Срыв сроков</b> - директолог, либо рекламное агентство затягивает, откладывает Ваш проект, из-за чего Вы теряете ценное время</h1>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div clas="row-fluid">
+				<div class="span12" style="margin-botom: 30px;">
+					<div class="row-fluid">
+						<div class="span12" style="text-align: left; margin-top: 10px">
+							<h1 class="light"><span>3.</span> <b>Отсутствие гарантий</b> - Вы оплачиваете услуги директолога и не имеете никакой уверенности в том, что деньги не будут выкинуты на ветер</h1>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div clas="row-fluid">
+				<div class="span12" style="margin-botom: 30px;">
+					<div class="row-fluid">
+						<div class="span12" style="text-align: left; margin-top: 10px">
+							<h1 class="light"><span>4.</span> <b>Нецелевой трафик</b> - сталкиваетесь с тем, что показатели-то высокие, однако конверсия (конечная прибыль с клиентов) почти нулевая</h1>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div clas="row-fluid">
+				<div class="span12" style="margin-botom: 30px;">
+					<div class="row-fluid">
+						<div class="span12" style="text-align: left; margin-top: 10px">
+							<h1 class="light"><span>5.</span> <b>Высокая стоимость клика</b> - видите, во сколько обходится один клик в Вашей нише, из-за чего кажется, что реклама в Яндекс Директе нецелесообразна для Вашего направления</h1>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		</div>
+
+		<div class="row-fluid">
+			<div class="span12">
+				<hr/>
+			</div>
+		</div>
+
+		<div class="container-fluid center benefits">
+			<div class="row-fluid">
+				<div class="span12" style="margin-top: 30px; text-align: center;">
+					<h2 class="header-benefits"><span>5</span> причин почему выбирают именно нас</h2>
+				</div>
+			</div>
+			<div clas="row-fluid">
+				<div class="span12" style="margin-botom: 30px;">
+					<div class="row-fluid">
+						<div class="span12" style="text-align: left; margin-top: 10px">
+							<h1 class="light"><b>Обеспечиваем высокий CTR</b> - мы подбираем целевые запросы и составляем максимально эффективные объявления, использую наш большой опыт в контекстной рекламе</h1>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div clas="row-fluid">
+				<div class="span12" style="margin-botom: 30px;">
+					<div class="row-fluid">
+						<div class="span12" style="text-align: left; margin-top: 10px">
+							<h1 class="light"><b>Работаем в сжатые сроки</b> - понимая, насколько ценно время, особенно в бизнесе, мы настроим Вашу кампанию в течении 1-3 дней</h1>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div clas="row-fluid">
+				<div class="span12" style="margin-botom: 30px;">
+					<div class="row-fluid">
+						<div class="span12" style="text-align: left; margin-top: 10px">
+							<h1 class="light"><b>Работаем с гарантией</b> - как Вы понимаете, у нас есть стимул сделать качественно, ведь от этого зависит наша прибыль и в случае низкоэффективной работы мы возвращаем Вам всю сумму</h1>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div clas="row-fluid">
+				<div class="span12" style="margin-botom: 30px;">
+					<div class="row-fluid">
+						<div class="span12" style="text-align: left; margin-top: 10px">
+							<h1 class="light"><b>Обеспечиваем только целевой трафик</b> - зная, что для Вас важно не только количество трафика, но и его качество, мы не нагоняем "людей", которым никак не интересны Ваш товар или услуга, ориентируясь прежде всего на "горячих" и "теплых" клиентах</h1>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div clas="row-fluid">
+				<div class="span12" style="margin-botom: 30px;">
+					<div class="row-fluid">
+						<div class="span12" style="text-align: left; margin-top: 10px">
+							<h1 class="light"><b>Минимилизируем цену на клик</b> - многие теряют веру "Директ" из-за его дороговизны, и поэтому мы используем свои наработки и специальные приемы, чтобы работать с Яндекс Директом было максимально выгодно</h1>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- HR -->
+			<div class="row-fluid">
+				<div class="span12">
+					<hr/>
+				</div>
+			</div>
+			<!-- //HR -->
+<div align="center"><h2><b>При заказе рекламной кампании сегодня скидка на тариф GOLD 50%</b></h1>
+
+
+
+<div class="moduletable_countdown">
+					
+<script type="text/javascript">
+(function($){
+ $(function(){
+  
+  var note = $('#note'),
+   ts = new Date(),
+   newYear = false;
+  ts = new Date(ts.getFullYear(), ts.getMonth(), ts.getDate() + 1);
+
+  $('#countdown').countdown({
+   timestamp : ts,
+   callback : function(days, hours, minutes, seconds){
+    
+    var message = "";
+    
+    message += "Дней: " + days +", ";
+    message += "Часов: " + hours + ", ";
+    message += "Минут: " + minutes + " и ";
+    message += "Секунд: " + seconds + "";
+    
+    
+    
+    
+    note.html(message);
+   }
+  });
+  
+ });
+})(jQuery);
+
+
+</script>
+<div class="box-countdown">
+
+<div class="text-bottom"><h4>До конца акции осталось:</h4></div>
+<div id="countdown" class="countdownHolder"></div>
+<p id="note">Дней: 0, Часов: 4, Минут: 34 и Секунд: 38</p>
+</div>
+
+		</div>
+
+
+
+</div>
+			<div class="row-fluid" style="margin-top: 50px;">
+				<div class="span3 offset1 plan minimum">
+					<div class="row-fluid">
+						<div class="span12 header">
+							<h3>Пакет "Тест"</h3>
+						</div>
+					</div>
+					<div class="row-fluid">
+						<div class="span12 price">
+							<h2>2,000 руб.</h2>
+						</div>
+					</div>
+					<div class="row-fluid">
+						<div class="span12 price">
+							<h5>До 200 уникальных объявлений</h5>
+						</div>
+					</div>
+					<div class="row-fluid">
+						<div class="span12 price">
+							<h5>Гарантия кликов</h5>
+						</div>
+					</div>
+					<div class="row-fluid">
+						<div class="span12 price">
+							<h5>Целевой трафик</h5>
+						</div>
+					</div>
+					<div class="row-fluid">
+						<div class="span12 price">
+							<h5>Бесплатное ведение кампании 1 неделю</h5>
+						</div>
+					</div>
+					<div class="row-fluid">
+						<div class="span12 price">
+							<h5>Ежемесячная поддержка 1000 руб.</h5>
+						</div>
+					</div>
+					<div class="row-fluid">
+						<div class="span10 offset1" style="margin-top: 185px;">
+							<a href="#orderForm" role="button"data-toggle="modal">
+								<div class="form-submit-button-plan">
+									<h2>ЗАКАЗАТЬ</h2>
+								</div>
+							</a>
+						</div>
+					</div>		
+				</div>
+				<div class="span4 plan medium">
+					<div class="row-fluid">
+						<div class="span12 header">
+							<h2>Пакет "Старт"</h2>
+						</div>
+					</div>
+					<div class="row-fluid">
+						<div class="span12 price">
+							<h2>4,000 руб.</h2>
+						</div>
+					</div>
+					<div class="row-fluid">
+						<div class="span12 price">
+							<h5>До 500 уникальных объявлений</h5>
+						</div>
+					</div>
+					<div class="row-fluid">
+						<div class="span12 price">
+							<h5>Бесплатное ведение кампании 2 неделю</h5>
+						</div>
+					</div>
+					<div class="row-fluid">
+						<div class="span12 price">
+							<h5>Гарантия кликов</h5>
+						</div>
+					</div>
+					<div class="row-fluid">
+						<div class="span12 price">
+							<h5>Целевой трафик</h5>
+						</div>
+					</div>
+					<div class="row-fluid">
+						<div class="span12 price">
+							<h5>Настройка Яндекс Метрики</h5>
+						</div>
+					</div>
+					<div class="row-fluid">
+						<div class="span12 price">
+							<h5>Консультация по увеличению конверсии сайта</h5>
+						</div>
+					</div>
+					<div class="row-fluid">
+						<div class="span12 price">
+							<h5>Ежемесячная поддержка 2000 руб.</h5>
+						</div>
+					</div>
+					<div class="row-fluid">
+						<div class="span10 offset1" style="margin-top: 120px;">
+							<a href="#orderForm" role="button"data-toggle="modal">
+								<div class="form-submit-button-plan">
+									<h2>ЗАКАЗАТЬ</h2>
+								</div>
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="span3 plan maximum">
+					<div class="row-fluid">
+						<div class="span12 header">
+							<h3>Пакет "GOLD"</h3>
+						</div>
+					</div>
+					<div class="row-fluid">
+						<div class="span12 price">
+							<h2><span style="color:red;"><s>16,000 </s></span>8,000 руб.</h2>
+						</div>
+					</div>
+					<div class="row-fluid">
+						<div class="span12 price">
+							<h5>Максимально возможное количество ключевых фраз</h5>
+						</div>
+					</div>
+					<div class="row-fluid">
+						<div class="span12 price">
+							<h5>Бесплатное ведение кампании в течение месяца</h5>
+						</div>
+					</div>
+					<div class="row-fluid">
+						<div class="span12 price">
+							<h5>Гарантия кликов</h5>
+						</div>
+					</div>
+					<div class="row-fluid">
+						<div class="span12 price">
+							<h5>Целевой трафик</h5>
+						</div>
+					</div>
+					<div class="row-fluid">
+						<div class="span12 price">
+							<h5>Настройка Яндекс Метрики</h5>
+						</div>
+					</div>
+					<div class="row-fluid">
+						<div class="span12 price">
+							<h5>Консультация по увеличению конверсии сайта</h5>
+						</div>
+					</div>
+					<div class="row-fluid">
+						<div class="span12 price">
+							<h5>Постоянная телефонная поддержка</h5>
+						</div>
+					</div>
+					<div class="row-fluid">
+						<div class="span12 price">
+							<h5>Ежемесячная поддержка 4000 руб.</h5>
+						</div>
+					</div>
+					<div class="row-fluid">
+						<div class="span10 offset1" style="margin-top: 20px;">
+							<a href="#orderForm" role="button"data-toggle="modal">
+								<div class="form-submit-button-plan">
+									<h2>ЗАКАЗАТЬ</h2>
+								</div>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="row-fluid" style="text-align: center;">
+				<div class="row-fluid">
+					<div class="span4" style="padding-top: 80px;"><hr></div>
+					<div class="span4">
+						<h2 style="margin: 80px 0px;">Как мы работаем</h2>
+					</div>
+					<div class="span4" style="padding-top: 80px;"><hr></div>
+				</div>
+				<div class="span12">
+					<div class="work-cheme"></div>
+				</div>
+			</div>
+
+			<div class="row-fluid" style="margin-top: 50px;">
+				<div class="span12 case">
+					<div class="row-fluid">
+						<div class="span6">
+							<h3>Кейс “Салоны эротического массажа”</h3>
+							<b>Рекламная кампания решала следующие проблемы:</b>
+							<ul>
+								<li>Низкая отдача от интернет-рекламы</li>
+								<li>Высокая стоимость привлечения клиента</li>
+								<li>Большая конкуренция в нише</li>
+							</ul>
+						</div>
+						<div class="span6">
+							<img src="img/case1.png" style="margin-top: 20px;">
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row-fluid">
+				<div class="span12 case">
+					<div class="span6">
+						<img src="img/case2.png" style="margin-top: 40px;">
+					</div>
+					<div class="span6">
+					<h3>Кейс “Интернет-магазина элитных щенков”</h3>
+					<b>Рекламная кампания решала следующие проблемы:</b>
+					<ul>
+						<li>Низкая отдача от работы сайта </li>
+						<li>Высокая стоимость привлечения клиента </li>
+						<li>Большая конкуренция в нише</li>
+					</ul>					
+					</div>
+				</div>
+			</div>
+
+			<div class="row-fluid">
+				<div class="span12"  style="margin: 40px 0px;">
+					<a href="#orderForm" role="button" data-toggle="modal">
+						<div class="order-button-bottom">
+							<h2>Заказать рекламу</h2>
+						</div>
+					</a>
+				</div>
+			</div>
+
+		</div>
+	</div>
+	<!-- //Heater + Form -->
+
+
+	</div>
+
+
+	<!-- FOOTER -->
+	<div class="row-fluid">
+		<div class="span12 footer">
+			<div class="container-fluid center" style="height: 50px;">
+				<div class="span8" style="text-align: left;">
+					<h4 style="line-height: 100px;">kviki-1@yandex.ru</h4>
+				</div>
+				<div class="span4 footer" style="text-align: right;">
+					<div class="row-fluid">
+						<h4 class="call">Звоните нам прямо сейчас</h4>
+					</div>
+					<div class="row-fluid">
+						<h4>+7 <span>(963)</span> 934-44-44</h4>
+					</div>
+				<!--	<div class="row-fluid">
+						<h4>+9 <span>(800)</span> 765-94-84</h4>
+					</div>   -->
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- Button to trigger modal -->
+					 
+	<!-- Modal -->
+	<div id="orderForm" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+	  <div class="modal-body">
+	    <div class="row-fluid order">
+	    	<div class="row-fluid">
+				<div class="span12 form-top-bg">
+					<div class="row-fluid">
+						<div class="span12 form-top">
+							<h2>Закажи прямо сейчас</h2>
+						</div>
+					</div>
+				</div>
+			</div><form method="get" action="mail.php">
+			<div class="row-fluid">
+				<div class="span10 offset1">
+					<input type="text" name="name" class="span12 form-input var required" placeholder="Имя">
+				</div>	
+			</div>
+			<div class="row-fluid">
+				<div class="span10 offset1">
+					<input type="text" name="email" class="span12 form-input var required" placeholder="Электронная почта">
+				</div>
+			</div>
+			<div class="row-fluid">
+				<div class="span10 offset1">
+					<input type="text" name="phone" class="span12 form-input var required" placeholder="Номер телефона">
+				</div>
+			</div>
+<div class="row-fluid">
+				<div class="span10 offset1">
+					<input type="text" name="site" class="span12 form-input var required" placeholder="Ваш сайт">
+				</div>	
+			</div>
+			<div class="row-fluid">
+				<div class="span10 offset1">
+					<div class="form-submit-button order-trigger" onclick="javascript: f_send(this.form);">
+						<h1>ЗАКАЗАТЬ</h1>
+					</div>
+				</div>
+			</div>
+	    </form></div>
+	  </div>
+	</div>
+	<!-- // Modal -->
+
+	
+
+	<!--
+	<script src="plugins/countdown/countdown/jquery.countdown.js"></script>
+	<script src="plugins/countdown/js/script.js"></script>
+	-->
+	<script src="js/script.js"></script>
+</body>
+
+
+</html>
